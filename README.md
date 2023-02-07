@@ -28,6 +28,9 @@ Epiblast – стадия эпибласта, примерно 6.5 дней по
 ![image](https://user-images.githubusercontent.com/114621114/217273871-b7a8d418-02b9-4efb-9e6a-29b8d1baccc5.png)
 ![image](https://user-images.githubusercontent.com/114621114/217274091-a470a564-b8c6-4ce9-ad41-8392b14bb90d.png)
 
+Наблюдается смещение процента метилирования в начале Read 2 (прочтения обратной цепи).
+Выделяется высокий процент метилирования в клетках образца эпибласта, что соответствует литературным данным.
+
 ### Гистограммы распределения метилирования цитозинов по хромосоме.
 ![image](https://user-images.githubusercontent.com/114621114/217278909-4ddda0c4-e828-49b4-862f-53db424ef141.png)
 ![image](https://user-images.githubusercontent.com/114621114/217279090-a4732e7b-c23a-4a0e-b3a9-eae26720245e.png)
