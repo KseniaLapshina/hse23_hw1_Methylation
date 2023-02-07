@@ -29,9 +29,9 @@ Epiblast – стадия эпибласта, примерно 6.5 дней по
 ![image](https://user-images.githubusercontent.com/114621114/217274091-a470a564-b8c6-4ce9-ad41-8392b14bb90d.png)
 
 ### Гистограммы распределения метилирования цитозинов по хромосоме.
-![image](https://user-images.githubusercontent.com/114621114/217276484-1d75caf0-6fd3-4545-a823-eb06379b560e.png)
-![image](https://user-images.githubusercontent.com/114621114/217276623-64880eb0-4c76-4f50-a20e-17bd97c2aed8.png)
-![image](https://user-images.githubusercontent.com/114621114/217276659-18343575-3634-4943-a200-4d50bed9211d.png)
+![image](https://user-images.githubusercontent.com/114621114/217278909-4ddda0c4-e828-49b4-862f-53db424ef141.png)
+![image](https://user-images.githubusercontent.com/114621114/217279090-a4732e7b-c23a-4a0e-b3a9-eae26720245e.png)
+![image](https://user-images.githubusercontent.com/114621114/217279287-b245bc9c-77b8-437a-ad0b-b8d546bed69f.png)
 Составляя графики в хронологическом порядке стадий, мы наблюдаем, что наши экспериментальные данные согласуются с описанной в литературе моделью (спад -> рост -> спад -> рост).
 
 ### Уровень метилирования и покрытия для каждого образца.
