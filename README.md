@@ -1,5 +1,7 @@
 # hse23_hw1
 
+https://colab.research.google.com/drive/1uFeoU-q_UaDGOj1nIfp4q39L6zXKuy3-?usp=sharing
+
 Скачан файл SRR5836473_1.fastq.gz и проведен анализ FastQC (html в папке data).
 ![image](https://user-images.githubusercontent.com/114621114/216843313-466df162-4076-44de-b409-908aac964648.png)
 
