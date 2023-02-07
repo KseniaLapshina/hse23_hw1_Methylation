@@ -15,6 +15,19 @@
 
 Отчеты по коллингу метилирования в формате html лежат в папке data.
 
+### M-bias plot
+8cell – 8-клеточный эмбрион, примерно 2.25 дня после оплодотворения яйцеклетки
+![image](https://user-images.githubusercontent.com/114621114/217270920-b0099213-a585-4f39-89f6-1ecb910ed9a6.png)
+![image](https://user-images.githubusercontent.com/114621114/217272852-d123346d-a32c-453b-b2a7-7a72a3164acc.png)
+
+ICM – внутренняя клеточная масса бластоциста, примерно 3.5 дня после оплодотворения яйцеклетки
+![image](https://user-images.githubusercontent.com/114621114/217273220-e5cd1087-51ac-44d2-bc10-31c3fa3e755a.png)
+![image](https://user-images.githubusercontent.com/114621114/217273466-32a09648-c442-4e9e-bfc1-c70fd70960ae.png)
+
+Epiblast – стадия эпибласта, примерно 6.5 дней после оплодотворения яйцеклетки
+![image](https://user-images.githubusercontent.com/114621114/217273871-b7a8d418-02b9-4efb-9e6a-29b8d1baccc5.png)
+![image](https://user-images.githubusercontent.com/114621114/217274091-a470a564-b8c6-4ce9-ad41-8392b14bb90d.png)
+
 ### Уровень метилирования и покрытия для каждого образца.
 Вручную создан файл для генерации визуала tracks.ini (находится в папке data).
 ![image_cov](https://user-images.githubusercontent.com/114621114/217224529-ce53a99e-b5b6-41d2-80d4-55d96b625278.png)
